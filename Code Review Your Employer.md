@@ -27,3 +27,5 @@ Potential employers could exploit this _free_ labor in order to get feedback on 
 Learning a new codebase isn't exactly the simpliest of tasks. Some companies provide monetary compensation to potential hirees for completing coding exercises, so maybe a similar system could be used.
 
 I believe the idea has merit, but as with all things the devil is in the details.
+
+A friend of mine has taken the route of request a 2-week contract with a hiring company, for about 20hr/week, in order for them to assess his skill, and he their code. It's worked well for him, it might do so for you!
